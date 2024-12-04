@@ -53,7 +53,7 @@ I did submit my solution before the competition deadline but it was far from a t
 
 The project goal is to predict housing price based on Tabular data. The project description is [here](https://www.kaggle.com/competitions/housing-price-prediction-isq/data)
 
-Work in this project primarily involves classic ML techinques:
+My work in this project primarily involves classic ML techinques:
 - Data exploration
 - Missing value handling (remove records, fill with mean, etc)
 - One hot encoding
