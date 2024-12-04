@@ -2,7 +2,7 @@ Project Summary / Study Notes
  
 **01_NLP_twitter_diseaster**
 
-This is my first project learning NLP. The project goal is to classify if a twitter message is indicating a diseaster situation or not. Project details and source data can be found [here] (https://www.kaggle.com/competitions/nlp-getting-started)
+This is my first project learning NLP. The project goal is to classify if a twitter message is indicating a diseaster situation or not. Project details and source data can be found [here](https://www.kaggle.com/competitions/nlp-getting-started)
 
 I applied the following techniques to gradually improve the model performance:
 - text vectorization using glove embedding
@@ -31,6 +31,7 @@ The following techniques are practices / applied:
 **03_CV_RSNA_ATD_Competition (Radiological Society of North America: Abdominal Trauma Detection)** 
 
 I participated in this the Kaggle competition, where the goal is to detect and classify traumatic abdominal injuries. The project requirement is [here](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection)
+
 The prediction targets (multi-class classification) include:
 
 Bowel: healthy/injury
