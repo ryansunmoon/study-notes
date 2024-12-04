@@ -1,8 +1,8 @@
 # Project Summary / Study Notes
  
-**01_NLP_twitter_diseaster (Natural Language Processing with Disaster Tweets)**
+**01_NLP_twitter_disaster (Natural Language Processing with Disaster Tweets)**
 
-This is my first project learning NLP. The project goal is to classify if a twitter message is indicating a diseaster situation or not. Project description can be found [here](https://www.kaggle.com/competitions/nlp-getting-started)
+This is my first project learning NLP. The project goal is to classify if a twitter message is indicating a disaster situation or not. Project description can be found [here](https://www.kaggle.com/competitions/nlp-getting-started)
 
 I applied the following techniques to gradually improve the model performance:
 - text vectorization using glove embedding
