@@ -1,6 +1,6 @@
 # Project Summary / Study Notes
  
-**01_NLP_twitter_diseaster**
+**01_NLP_twitter_diseaster (Natural Language Processing with Disaster Tweets)**
 
 This is my first project learning NLP. The project goal is to classify if a twitter message is indicating a diseaster situation or not. Project description can be found [here](https://www.kaggle.com/competitions/nlp-getting-started)
 
@@ -15,7 +15,7 @@ I applied the following techniques to gradually improve the model performance:
 This project was done before LLM. If we apply LLM / transformer, the performance would be even better  
 
 
-**02_CV_chest_X_ray**
+**02_CV_chest_X_ray(Pneumonia Chest X-ray class Classification)**
 
 This is my first project learning computer vision. The project goal is to classify Chest X-ray images as "Pneumonia / Normal". Project description can be found [here](https://www.kaggle.com/competitions/pneumonia-chest-x-ray-class-classification/overview)
 
@@ -49,9 +49,9 @@ In this competition, I primary tried two techniques:
 I did submit my solution before the competition deadline but it was far from a top solution. I later learned from the competition winner a top notch solution would involve two stage of modeling: stage 1: segmenting the area of the image and identify the object area and 2) feed the results into a CNN/RNN network for final prediction. 
 
 
-**04_XGB_Regression_Housing_Prediction**
+**04_XGB_Regression_Housing_Prediction(Housing Price Prediction)**
 
-The project goal is to predict housing price based on Tabular data. The project description is [here](https://www.kaggle.com/competitions/housing-price-prediction-isq/data)
+The project goal is to predict housing price based on Tabular data. The project description is [here](https://www.kaggle.com/competitions/housing-price-prediction-isq)
 
 My work in this project primarily involves classic ML techinques:
 - Data exploration
