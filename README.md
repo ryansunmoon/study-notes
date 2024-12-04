@@ -15,7 +15,7 @@ I applied the following techniques to gradually improve the model performance:
 This project was done before LLM. If we apply LLM / transformer, the performance would be even better  
 
 
-**02_CV_chest_x_ray**
+**02_CV_chest_X_ray**
 
 This is my first project learning computer vision. The project goal is to classify Chest X-ray images as "Pneumonia / Normal". Project details can be found [here](https://www.kaggle.com/competitions/pneumonia-chest-x-ray-class-classification/overview)
 
