@@ -34,9 +34,7 @@ Bowel: healthy/injury
 Extravasation: healthy/injury
 
 Kidney: Healthy/low/high
-
 Liver: healthy/low/high
-
 Spleen: healthy/low/high
 
 
