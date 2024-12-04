@@ -32,9 +32,13 @@ The prediction targets (multi-class classification) include:
 
 Bowel: healthy/injury
 Extravasation: healthy/injury
+
 Kidney: Healthy/low/high
+
 Liver: healthy/low/high
+
 Spleen: healthy/low/high
+
 
 In this competition, I primary tried two techniques:
 - Transfer learning of Inception Network
